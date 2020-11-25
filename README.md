@@ -1,6 +1,6 @@
+B.H
 # DATA SCIENCE ANALYSIS- 2020 
-# CSV
-# MyAnimeList dataSet
+# MyAnimeList dataSet- CSV
 
 The project implements broadcasting and analysis, to forecast WILL THE ANIME BE SUCCESSFUL? by observing the relationships
 between the features of all the animes in the anime_filtered CSV dataSet. 
@@ -51,7 +51,7 @@ Models Accuracy: (rithms, da ;) )
 ![Models Accuracy)](https://github.com/shaCode256/My-Anime-List-data-analysis-Data-Science-Y1S1/blob/master/models%20accuracy.PNG)
 
 Table for example:
-!Table for example](https://github.com/shaCode256/My-Anime-List-data-analysis-Data-Science-Y1S1/blob/master/table.PNG)
+![Table for example](https://github.com/shaCode256/My-Anime-List-data-analysis-Data-Science-Y1S1/blob/master/table.PNG)
 
 
 Find me at GitHub: ShaCode256@
