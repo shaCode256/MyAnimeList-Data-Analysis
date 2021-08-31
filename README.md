@@ -7,7 +7,7 @@ between the features of all the animes in the anime_filtered CSV dataSet.
 
 #lots of cleaning the data!
 
-I chose to decide that the anime is successful by its rating score (in the TRAINING, of course)
+I chose to decide that the anime is successful by its rating score (in the TRAINING, of course), if it's above *INSERT HERE*
 anime_filtered dataSet link from Kaggle:
 https://www.kaggle.com/azathoth42/myanimelist#anime_filtered.csv
 
