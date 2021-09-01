@@ -7,8 +7,9 @@ between the features of all the animes in the anime_filtered CSV dataSet.
 
 #lots of cleaning the data!
 
-I chose to decide that the anime is successful by its rating score (in the TRAINING, of course), if it's above *INSERT HERE*
-anime_filtered dataSet link from Kaggle:
+I chose to decide that the anime is successful by its rating score (in the TRAINING, of course), if its above 7 = SUCCESSFULL. 
+
+I used the anime_filtered dataset from Kaggle:
 https://www.kaggle.com/azathoth42/myanimelist#anime_filtered.csv
 
 Anime_filtered, which describes anime and their rating. The data is collected from the MyAnimeList site, which helps its users manage their watch list. 
