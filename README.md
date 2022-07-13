@@ -2,12 +2,12 @@ B.H
 # DATA SCIENCE ANALYSIS- 2020 
 # MyAnimeList dataSet- CSV
 
-The project implements foreasting and analysis, to forecast WILL THE ANIME BE SUCCESSFUL? by observing the relationships
+The project implements foreasting and analysis, to forecast whether an anime be successfull by observing the relationships
 between the features of all the animes in the anime_filtered CSV dataSet. 
 
 #lots of cleaning the data!
 
-I chose to decide that the anime is successful by its rating score (in the TRAINING, of course), if its above 7 = SUCCESSFULL. 
+I chose to decide that the anime is successful by its rating score (in training ds), if its above 7 = SUCCESSFULL. 
 
 I used the anime_filtered dataset from Kaggle:
 https://www.kaggle.com/azathoth42/myanimelist#anime_filtered.csv
