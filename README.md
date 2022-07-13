@@ -2,7 +2,7 @@ B.H
 # DATA SCIENCE ANALYSIS- 2020 
 # MyAnimeList dataSet- CSV
 
-The project implements broadcasting and analysis, to forecast WILL THE ANIME BE SUCCESSFUL? by observing the relationships
+The project implements foreasting and analysis, to forecast WILL THE ANIME BE SUCCESSFUL? by observing the relationships
 between the features of all the animes in the anime_filtered CSV dataSet. 
 
 #lots of cleaning the data!
