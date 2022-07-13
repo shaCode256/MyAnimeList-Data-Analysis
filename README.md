@@ -48,7 +48,7 @@ Proccessing data time:
 Importing models:
 ![Importing models](https://github.com/shaCode256/My-Anime-List-data-analysis-Data-Science-Y1S1/blob/master/import%20models.PNG)
 
-Models Accuracy: (rithms, da ;) )
+Models Accuracy: 
 ![Models Accuracy)](https://github.com/shaCode256/My-Anime-List-data-analysis-Data-Science-Y1S1/blob/master/models%20accuracy.PNG)
 
 Table for example:
